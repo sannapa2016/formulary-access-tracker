@@ -1,0 +1,9 @@
+payer_id,payer_name,latest_tier,latest_score,trend_slope,trajectory
+P003,OptumRx,tier2,3.0,-0.0,STABLE
+P006,BCBS Part D,tier2,3.0,-0.0,STABLE
+P002,Express Scripts,tier2,2.5,-0.0,STABLE
+P001,CVS Caremark,tier2,2.5,-0.0,STABLE
+P004,SilverScript,tier2,2.5,-0.0,STABLE
+P007,Medi-Cal,tier2,2.2,-0.0,STABLE
+P005,Humana Part D,tier3,1.8,0.0417,STABLE
+P008,Molina,non-formulary,-0.4,-0.2321,DETERIORATING

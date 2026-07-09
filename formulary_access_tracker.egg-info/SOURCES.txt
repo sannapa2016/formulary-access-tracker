@@ -1,0 +1,11 @@
+README.md
+setup.py
+formulary_access_tracker.egg-info/PKG-INFO
+formulary_access_tracker.egg-info/SOURCES.txt
+formulary_access_tracker.egg-info/dependency_links.txt
+formulary_access_tracker.egg-info/top_level.txt
+src/__init__.py
+src/change_detector.py
+src/formulary.py
+src/trajectory.py
+tests/__init__.py

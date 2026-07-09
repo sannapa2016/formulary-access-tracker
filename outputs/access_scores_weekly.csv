@@ -1,0 +1,97 @@
+payer_id,payer_name,week,tier,access_score
+P001,CVS Caremark,1,tier2,2.5
+P002,Express Scripts,1,tier3,1.2
+P003,OptumRx,1,tier2,3.0
+P004,SilverScript,1,tier2,2.5
+P005,Humana Part D,1,tier3,1.3
+P006,BCBS Part D,1,tier2,3.0
+P007,Medi-Cal,1,tier2,2.2
+P008,Molina,1,tier3,0.9
+P001,CVS Caremark,2,tier2,2.5
+P002,Express Scripts,2,tier3,1.2
+P003,OptumRx,2,tier2,3.0
+P004,SilverScript,2,tier2,2.5
+P005,Humana Part D,2,tier3,1.3
+P006,BCBS Part D,2,tier2,3.0
+P007,Medi-Cal,2,tier2,2.2
+P008,Molina,2,tier3,0.9
+P001,CVS Caremark,3,tier2,2.5
+P002,Express Scripts,3,tier3,1.2
+P003,OptumRx,3,tier2,3.0
+P004,SilverScript,3,tier2,2.5
+P005,Humana Part D,3,tier3,1.3
+P006,BCBS Part D,3,tier2,3.0
+P007,Medi-Cal,3,tier2,2.2
+P008,Molina,3,tier3,0.9
+P001,CVS Caremark,4,tier2,2.5
+P002,Express Scripts,4,tier2,2.5
+P003,OptumRx,4,tier2,3.0
+P004,SilverScript,4,tier2,2.5
+P005,Humana Part D,4,tier3,1.3
+P006,BCBS Part D,4,tier2,3.0
+P007,Medi-Cal,4,tier2,2.2
+P008,Molina,4,tier3,0.9
+P001,CVS Caremark,5,tier2,2.5
+P002,Express Scripts,5,tier2,2.5
+P003,OptumRx,5,tier2,3.0
+P004,SilverScript,5,tier2,2.5
+P005,Humana Part D,5,tier3,1.3
+P006,BCBS Part D,5,tier2,3.0
+P007,Medi-Cal,5,tier2,2.2
+P008,Molina,5,tier3,0.9
+P001,CVS Caremark,6,tier2,2.5
+P002,Express Scripts,6,tier2,2.5
+P003,OptumRx,6,tier2,3.0
+P004,SilverScript,6,tier2,2.5
+P005,Humana Part D,6,tier3,1.8
+P006,BCBS Part D,6,tier2,3.0
+P007,Medi-Cal,6,tier2,2.2
+P008,Molina,6,tier3,0.9
+P001,CVS Caremark,7,tier2,2.5
+P002,Express Scripts,7,tier2,2.5
+P003,OptumRx,7,tier2,3.0
+P004,SilverScript,7,tier2,2.5
+P005,Humana Part D,7,tier3,1.8
+P006,BCBS Part D,7,tier2,3.0
+P007,Medi-Cal,7,tier2,2.2
+P008,Molina,7,tier3,0.9
+P001,CVS Caremark,8,tier2,2.5
+P002,Express Scripts,8,tier2,2.5
+P003,OptumRx,8,tier2,3.0
+P004,SilverScript,8,tier2,2.5
+P005,Humana Part D,8,tier3,1.8
+P006,BCBS Part D,8,tier2,3.0
+P007,Medi-Cal,8,tier2,2.2
+P008,Molina,8,non-formulary,-0.4
+P001,CVS Caremark,9,tier2,2.5
+P002,Express Scripts,9,tier2,2.5
+P003,OptumRx,9,tier2,3.0
+P004,SilverScript,9,tier2,2.5
+P005,Humana Part D,9,tier3,1.8
+P006,BCBS Part D,9,tier2,3.0
+P007,Medi-Cal,9,tier2,2.2
+P008,Molina,9,non-formulary,-0.4
+P001,CVS Caremark,10,tier2,2.5
+P002,Express Scripts,10,tier2,2.5
+P003,OptumRx,10,tier2,3.0
+P004,SilverScript,10,tier2,2.5
+P005,Humana Part D,10,tier3,1.8
+P006,BCBS Part D,10,tier2,3.0
+P007,Medi-Cal,10,tier2,2.2
+P008,Molina,10,non-formulary,-0.4
+P001,CVS Caremark,11,tier2,2.5
+P002,Express Scripts,11,tier2,2.5
+P003,OptumRx,11,tier2,3.0
+P004,SilverScript,11,tier2,2.5
+P005,Humana Part D,11,tier3,1.8
+P006,BCBS Part D,11,tier2,3.0
+P007,Medi-Cal,11,tier2,2.2
+P008,Molina,11,non-formulary,-0.4
+P001,CVS Caremark,12,tier2,2.5
+P002,Express Scripts,12,tier2,2.5
+P003,OptumRx,12,tier2,3.0
+P004,SilverScript,12,tier2,2.5
+P005,Humana Part D,12,tier3,1.8
+P006,BCBS Part D,12,tier2,3.0
+P007,Medi-Cal,12,tier2,2.2
+P008,Molina,12,non-formulary,-0.4
