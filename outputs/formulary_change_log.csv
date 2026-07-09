@@ -1,5 +1,0 @@
-week,payer_name,channel,covered_lives_m,change_type,direction,severity,prior_value,new_value,description,action_required
-4,Express Scripts,commercial,80.0,tier_change,IMPROVEMENT,MEDIUM,tier3,tier2,Tier changed: tier3 to tier2,Update field force briefing — access improved at Express Scripts. Communicate win to brand team and KAMs.
-6,Humana Part D,part_d,28.0,pa_removed,IMPROVEMENT,HIGH,PA required,No PA,Prior authorization requirement removed,Update field force briefing. Communicate unrestricted access to KAMs and MSLs. Update patient support hub protocols.
-8,Molina,managed_medicaid,9.0,tier_change,DETERIORATION,HIGH,tier3,non-formulary,Tier changed: tier3 to non-formulary,Schedule payer meeting within 2 weeks. Assess rebate contract levers for Molina. Update field force briefing.
-8,Molina,managed_medicaid,9.0,step_added,DETERIORATION,HIGH,"Agent-A, Agent-B","Agent-A, Agent-B, Agent-C",Step therapy added: Agent-C,Immediate payer engagement required. Assess label compatibility with step criteria. Legal review if step-through is off-label. Brief field force on patient navigation.
